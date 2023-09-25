@@ -1,13 +1,13 @@
-import * as profile from "../data/profile";
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import  profile from "../data/profile";
+
 export default function ProfileDetails() {
   return (
     <div className="profile-details">
-      <FontAwesomeIcon icon="fa-regular fa-user" style={{ color: "#4ec2ca" }} />
-      <p>{profile.name}</p>
-      <p>{profile.position}</p>
-      <p>{profile.phone}</p>
-      <p>{profile.email}</p>
+    
+      <p>  <i className="fa-solid fa-user" ></i> {profile.name}</p>
+      <p><i className="fa-solid fa-briefcase"></i> {profile.position}</p>
+      <p><i className="fa-solid fa-phone"></i> {profile.phone}</p>
+      <p><i className="fa-solid fa-envelope"></i> {profile.email}</p>
     </div>
   );
 }

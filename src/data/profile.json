@@ -15,5 +15,80 @@
     "Kubernetes",
     "Git",
     "JIRA"
+  ],
+  "organisations": [
+    {
+      "id": 1,
+      "name": "Wohlig Transformations",
+      "nature": "Full-time",
+      "startMonth": "Apr",
+      "startYear": "2017",
+      "endMonth": "",
+      "endYear": "",
+      "isPresent": true,
+      "description": "",
+      "designation": "Software Developer",
+      "skills": [
+        "MongoDb",
+        "PostgreSql",
+        "NodeJs",
+        "TypeScript",
+        "Redis",
+        "Memcahced",
+        "Socket.io",
+        "Docker",
+        "Kubernetes",
+        "Git",
+        "JIRA"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "name": "Fairplay",
+      "client": "Fairplay",
+      "description": "",
+      "designation": "Sr Tech Lead",
+      "companyId": 1,
+      "skills": [
+        "MongoDb",
+        "PostgreSql",
+        "NodeJs",
+        "TypeScript",
+        "Redis",
+        "Memcahced",
+        "Socket.io",
+        "Docker",
+        "Kubernetes",
+        "Git",
+        "JIRA"
+      ],
+      "tasks": [],
+      "url": "https://fairplay1.club"
+    },
+    {
+      "id": 2,
+      "name": "Fairplay",
+      "client": "Fairplay",
+      "description": "",
+      "designation": "Sr Tech Lead",
+      "companyId": 1,
+      "skills": [
+        "MongoDb",
+        "PostgreSql",
+        "NodeJs",
+        "TypeScript",
+        "Redis",
+        "Memcahced",
+        "Socket.io",
+        "Docker",
+        "Kubernetes",
+        "Git",
+        "JIRA"
+      ],
+      "tasks": [],
+      "url": "https://fairplay1.club"
+    }
   ]
 }
