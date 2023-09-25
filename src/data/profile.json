@@ -1,0 +1,19 @@
+{
+  "name": "Bhargav Purohit",
+  "position": "Sr Backend Developer",
+  "email": "bhargavpurohit3@gmail.com",
+  "phone": "9867624800",
+  "skills": [
+    "MongoDb",
+    "PostgreSql",
+    "NodeJs",
+    "TypeScript",
+    "Redis",
+    "Memcahced",
+    "Socket.io",
+    "Docker",
+    "Kubernetes",
+    "Git",
+    "JIRA"
+  ]
+}
