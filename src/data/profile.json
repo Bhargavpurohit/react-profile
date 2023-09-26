@@ -52,7 +52,7 @@
       "designation": "Sr Tech Lead",
       "companyId": 1,
       "skills": [
-        "MongoDb",
+        "MongoDB",
         "NodeJs",
         "Redis",
         "Memcahced",
