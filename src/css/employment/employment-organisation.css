@@ -35,3 +35,7 @@ a {
     justify-content: space-evenly;
   }
 }
+.project-description {
+  text-align: left;
+  margin-left: 5px;
+}

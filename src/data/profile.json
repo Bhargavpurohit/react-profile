@@ -1,6 +1,6 @@
 {
   "name": "Bhargav Purohit",
-  "position": "Sr Backend Developer",
+  "position": "Sr Tech Lead",
   "email": "bhargavpurohit3@gmail.com",
   "phone": "9867624800",
   "skills": [
@@ -27,7 +27,7 @@
       "endYear": "",
       "isPresent": true,
       "description": "",
-      "designation": "Software Developer",
+      "designation": "Sr Tech Lead",
       "skills": [
         "MongoDb",
         "PostgreSql",
@@ -48,47 +48,110 @@
       "id": 1,
       "name": "Fairplay",
       "client": "Fairplay",
-      "description": "",
+      "description": "This Online real-time fantasy sports and casino betting platform, meticulously crafted on the robust foundation of MongoDB, Node.js, Vue.js, and Socket.io, is a testament to my commitment to delivering exceptional technology. Our mission is to provide players with an unparalleled, authentic, and immersive gaming experience that is seamlessly powered by cutting-edge performance. With my extensive experience and expertise in system design and optimization, I've achieved outstanding results, ensuring that our platform stands as a paragon of high performance and low latency. EXCHANGE boasts a diverse portfolio of over 30 sports, including cricket (IPL, CPL, PSL, World Cup), soccer, tennis, and more. Here, players can indulge in the thrill of LIVE CASINO gaming on Fairplay, where LIVE DEALERS oversee a plethora of games, including Roulette, Blackjack, Teen Patti, Andar Bahar, Poker, Slots, and more. Rest assured, Fairplay is a trusted casino renowned for its lightning-fast deposits and withdrawals, further backed by our unwavering commitment to round-the-clock support through email and live chat.",
       "designation": "Sr Tech Lead",
       "companyId": 1,
       "skills": [
         "MongoDb",
-        "PostgreSql",
         "NodeJs",
-        "TypeScript",
         "Redis",
         "Memcahced",
+        "Snowflakes",
         "Socket.io",
         "Docker",
         "Kubernetes",
         "Git",
         "JIRA"
       ],
-      "tasks": [],
-      "url": "https://fairplay1.club"
+      "tasks": [
+        "Leading team.",
+        "Managing and providing training to freshers.",
+        "Designing and Modeling database for given module (MongoDB).",
+        "Handled user base of more than 10 lakh users.",
+        "Creating and Deploying Docker Containers.",
+        "Worked on  micro services architecture deployed in Kubernetes with more than 100 services.",
+        "Creating an event based system using redis Pub/Sub.",
+        "Implemented Socket.io-redis for scaling socket service.",
+        "Optimisation of API’s using redis caching.",
+        "Providing real time support and resolving issues on client side during big events such as IPL. (Dubai Location).",
+        "Developing Backend Services as per modules.",
+        "Code review and merging code on git.",
+        "Developed an API for the backend panel to enable dynamic locking and turning off of games.",
+        "Taking extra initiative and suggesting to the client what other improvements can be made in the portal.",
+        "Resolving Issues raised by testers in test and production environments.",
+        "Managing issues, stories and features in Click Up or JIRA."
+      ],
+      "url": "https://fairplay1.club",
+      "startMonth": "Jan",
+      "startYear": "2019",
+      "isPresent": true
     },
     {
       "id": 2,
-      "name": "Fairplay",
-      "client": "Fairplay",
-      "description": "",
-      "designation": "Sr Tech Lead",
+      "name": "InsureEasy",
+      "client": "InsureEasy",
+      "description": "This is an Online insurance selling platform which was  built on PostgreSql, Node typescript and  Angular 6  that aims at offering multiple types of insurances to the customer.",
+      "designation": "Sr. Software Developer",
       "companyId": 1,
-      "skills": [
-        "MongoDb",
-        "PostgreSql",
-        "NodeJs",
-        "TypeScript",
-        "Redis",
-        "Memcahced",
-        "Socket.io",
-        "Docker",
-        "Kubernetes",
-        "Git",
-        "JIRA"
+      "skills": ["PostgreSql", "NodeJs", "TypeScript", "Git"],
+      "tasks": [
+        "Understanding project scope requirements. Accordingly, work on a project plan.",
+        "Developed Database.",
+        "Developed API for backend server.",
+        "Integration of third party insurance API’s using SOAP.",
+        "Lead team of 4 members.",
+        "Filling the PDF form using pdf-fill-form NPM and submitting the same to third party service."
       ],
-      "tasks": [],
-      "url": "https://fairplay1.club"
+      "url": "",
+      "startMonth": "May",
+      "startYear": "2018",
+      "endMonth": "Dec",
+      "endYear": "2018",
+      "isPresent": false
+    },
+    {
+      "id": 3,
+      "name": "Absolute Surveyors",
+      "client": "Absolute Surveyors",
+      "description": "This was an ERP system which was  built on MongoDB, Nodejs and  AngularJS that was used for managing the complete process for insurance surveyors.",
+      "designation": "Jr. Software Developer",
+      "companyId": 1,
+      "skills": ["MongoDB", "NodeJs", "Git"],
+      "tasks": [
+        "Understanding project scope requirements. Accordingly, work on a project plan.",
+        "Developed Database.",
+        "Developed API for backend server.",
+        "Integration of bluedart API for delivery purpose.",
+        "Optimizing MongoDb aggregates and improving overall response time of API’s."
+      ],
+      "url": "https://absolutesurveyors.com/",
+      "startMonth": "Oct",
+      "startYear": "2017",
+      "endMonth": "May",
+      "endYear": "2018",
+      "isPresent": false
+    },
+    {
+      "id": 4,
+      "name": "Burnt Umber",
+      "client": "Burnt Umber",
+      "description": "This is a website for an online fashion store where users can purchase clothing items. It was developed using MongoDB, Node.js, and AngularJS.",
+      "designation": "Jr. Software Developer",
+      "companyId": 1,
+      "skills": ["MongoDB", "NodeJs", "AngularJs", "Git"],
+      "tasks": [
+        "Implement & integrate performance oriented APIs for backend.",
+        "Implement third party API - Sendgrid for Emails.",
+        "Integration of API's on frontend(AngularJs).",
+        "Implemented PDF download module for order bills.",
+        "End to End testing of website."
+      ],
+      "url": "",
+      "startMonth": "May",
+      "startYear": "2017",
+      "endMonth": "Oct",
+      "endYear": "2017",
+      "isPresent": false
     }
   ]
 }
